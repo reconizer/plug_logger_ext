@@ -1,0 +1,2 @@
+defmodule PlugLoggerExtTest do
+end

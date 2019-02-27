@@ -1,6 +1,6 @@
 # PlugLoggerExt
 
-**TODO: Add description**
+[![Build Status](https://travis-ci.com/reconizer/plug_logger_ext.svg?branch=master)](https://travis-ci.com/reconizer/plug_logger_ext)
 
 ## Installation
 
